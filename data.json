@@ -1,0 +1,44 @@
+[
+  {
+    "image": "https://awsimages.detik.net.id/community/media/visual/2022/08/24/teknik-aquarel-3.jpeg?w=1280",
+    "nama": "Belajar Melukis Cat Air Menggunakan Teknik Aquarel",
+    "kategori": "Melukis",
+    "harga": "Gratis",
+    "id": "1"
+  },
+  {
+    "image": "https://img.lovepik.com/photo/40011/5436.jpg_wh860.jpg",
+    "nama": "Belajar Membuat Ilustrasi Cat Air Untuk Produk Bisnis",
+    "kategori": "Melukis",
+    "harga": "Gratis",
+    "id": "2"
+  },
+  {
+    "image": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/06/30151840/image001-22.jpg",
+    "nama": "Belajar Teknik Arsir dalam Mengambar Objek Dua Dimensi",
+    "kategori": "Menggambar",
+    "harga": "Gratis",
+    "id": "3"
+  },
+  {
+    "image": "https://emptyphotoproject.com/wp-content/uploads/2021/09/pengertian-gambar-perspektif-1-titik-hilang.webp",
+    "nama": "Belajar dasar menggambar perspektif 1 titik hilang untuk pemula",
+    "kategori": "Menggambar",
+    "harga": "Gratis",
+    "id": "4"
+  },
+  {
+    "image": "https://www.gamelab.id/uploads/modules/NEWS/1318/gambar-karikatur.jpg?1640253099568",
+    "nama": "Belajar Cara Menggambar Ilustrasi Karikatur",
+    "kategori": "Menggambar",
+    "harga": "Gratis",
+    "id": "5"
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-cd5_6A5iljk/VFycPTOIyNI/AAAAAAAAAPM/BOikxl7ZqhU/s1600/ukiran_kayu.jpg",
+    "nama": "Belajar Teknik Ukiran Kayu Untuk Pemula",
+    "kategori": "Ukiran",
+    "harga": "Gratis",
+    "id": "6"
+  }
+]
