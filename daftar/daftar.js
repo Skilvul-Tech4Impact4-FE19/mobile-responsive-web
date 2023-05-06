@@ -19,5 +19,5 @@ form.addEventListener('submit', async (even)=>{
     )
     const userdata= await response.json()
 
-    console.log(userdata)
+    window.location.href='../login/login.html'
 })
