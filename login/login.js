@@ -11,5 +11,6 @@ form.addEventListener('submit', async (even)=>{
     if (user) {
         const datalogin=localStorage.setItem('email',email.value)
         console.log(datalogin)
+        window.location.href='../kelas/kelas.html'
     }
 })
