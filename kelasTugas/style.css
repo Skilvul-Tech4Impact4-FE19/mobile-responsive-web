@@ -1,0 +1,14 @@
+
+
+.about_class {
+	background-color: gray;
+	padding: 2rem;
+	border: 1px solid red;
+	border-radius: 10px;
+	width: 90%;
+}
+
+ul .navbar-nav {
+	color: red !important;
+}
+
